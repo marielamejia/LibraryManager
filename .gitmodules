@@ -1,0 +1,3 @@
+[submodule "BasicProjectComputerGraphics/vendor/glfw"]
+	path = BasicProjectComputerGraphics/vendor/glfw
+	url = https://github.com/Tanque40/glfw.git
